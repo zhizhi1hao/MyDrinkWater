@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="item"
+        >
+        <attr name="bellimage" format="reference"/>
+        <attr name="time" format="string"/>
+        <attr name="timecolor" format="color"/>
+        <attr name="timesize" format="dimension"/>
+        <attr name="on_off" format="reference"/>
+
+
+    </declare-styleable>
+</resources>

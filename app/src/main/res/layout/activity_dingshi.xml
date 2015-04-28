@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="demo.example.com.mydrinkwater.otheractivity.DingshiActivity">
+
+    <demo.example.com.mydrinkwater.zidiyiview.TixinRecyleLayout
+        android:id="@+id/rcylv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <!--
+    <ListView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv"/>
+        -->
+</RelativeLayout>

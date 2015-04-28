@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_weixin"
+        android:title="@string/action_settings"
+        android:orderInCategory="1"
+        android:icon="@drawable/sample_ic_wechat_white"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_guanwang"
+        android:title="官方网站"
+        android:orderInCategory="100"
+
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_pingjia"
+        android:title="给个评价"
+        android:orderInCategory="100"
+
+        app:showAsAction="never" />
+
+
+
+</menu>
